@@ -1,3 +1,5 @@
+// Creating student class with name, roll no, marks
+
 #include<iostream>
 using namespace std;
 
